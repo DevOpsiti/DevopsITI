@@ -2,6 +2,7 @@
 
 <!--
 **DevOpsiti/DevopsITI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![kisspng-computer-icons-devops-continuous-integration-agile-infinity-5ac0b1b612dcf0 3559208515225778460773](https://user-images.githubusercontent.com/111522901/185663645-3bd0d53e-9f8d-495e-93ab-923eb8d57f2e.jpg)
 
 Here are some ideas to get you started:
 
