@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**DevOpsiti/DevopsITI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![kisspng-computer-icons-devops-continuous-integration-agile-infinity-5ac0b1b612dcf0 3559208515225778460773](https://user-images.githubusercontent.com/111522901/185663645-3bd0d53e-9f8d-495e-93ab-923eb8d57f2e.jpg)
 
 Here are some ideas to get you started:
 
@@ -13,5 +10,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...![pexels-pixabay-316093](https://user-images.githubusercontent.com/111522901/185664052-413da162-6318-4832-8fb6-312eaa4fedba.jpg)
+
 -->
